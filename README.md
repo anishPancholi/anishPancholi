@@ -15,5 +15,5 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 📫 How to Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anish-sharma-b97231244) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pancholi15anish1947@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-sharma-b97231244) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pancholi15anish1947@gmail.com) 
 
