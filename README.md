@@ -1,4 +1,4 @@
-# Hi there, I'm Anish Pancholi! 👋
+# Hi there, I'm Anish ! 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with a love for creating innovative solutions and exploring new technologies. Here's a little bit about me:
 
